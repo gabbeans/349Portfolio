@@ -29,7 +29,7 @@ const Projects = () => {
           title="Chat App"
           des="A chat application using html and CSS. It's a work in progress project."
           src={projectThree}
-          githubLink=""
+          githubLink="https://github.com/gabbeans/Chatroom"
         />
       </div>
     </section>
